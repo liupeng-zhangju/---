@@ -14,7 +14,7 @@ Vue、SpringBoot、Redis
 
 
 ### 功能查看
-[功能查看](https://gitee.com/sculiupeng/couple-website---love-website/blob/master/show/show.md)
+[功能查看](https://github.com/liupeng-zhangju/love-station/blob/main/show/show.md)
 
 
 ### 网站定制一条龙
@@ -24,10 +24,15 @@ Vue、SpringBoot、Redis
 而这些定制服务，您只需要一杯奶茶的成本💴
 
 ### 联系方式
+（如果图片查看失败，可以访问[gitee仓库](https://gitee.com/sculiupeng/couple-website---love-website/tree/master)）
+
 微信：wxid_zi356bc12sqc22
+
+![image-20221228215146631](./images/qq_qr.jpg)
 
 <img src="./images/wechat_qr.jpg" width="30%" height="30%" />
 
 QQ：3285331415
 
+![image-20221228215146632](./images/qq_qr.jpg)
 <img src="./images/qq_qr.jpg" width="30%" height="30%" />

@@ -1,5 +1,8 @@
 # 爱情网站-功能展示
 
+（如果图片查看失败，可以访问[gitee仓库](https://gitee.com/sculiupeng/couple-website---love-website/tree/master)）
+
+
 # 一、主页
 
 **6大基础功能：祝福板，点点滴滴，爱情清单，时光相册，爱情树，关于我们**
